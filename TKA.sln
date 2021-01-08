@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKA.Server", "Server\TKA.Server.csproj", "{92924EBA-E08D-4E8A-AD24-3E1A99C15621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKA.Client", "Client\TKA.Client.csproj", "{872338B8-F5C4-4B29-B4CA-A5B5C82FE8E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKA.Shared", "Shared\TKA.Shared.csproj", "{36E5A46D-EF29-4362-B202-59F4B889AF46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92924EBA-E08D-4E8A-AD24-3E1A99C15621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92924EBA-E08D-4E8A-AD24-3E1A99C15621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92924EBA-E08D-4E8A-AD24-3E1A99C15621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92924EBA-E08D-4E8A-AD24-3E1A99C15621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872338B8-F5C4-4B29-B4CA-A5B5C82FE8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872338B8-F5C4-4B29-B4CA-A5B5C82FE8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872338B8-F5C4-4B29-B4CA-A5B5C82FE8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872338B8-F5C4-4B29-B4CA-A5B5C82FE8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E5A46D-EF29-4362-B202-59F4B889AF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E5A46D-EF29-4362-B202-59F4B889AF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E5A46D-EF29-4362-B202-59F4B889AF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E5A46D-EF29-4362-B202-59F4B889AF46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBA02EF7-799F-4C74-8818-0AF9DF0BCD22}
+	EndGlobalSection
+EndGlobal
